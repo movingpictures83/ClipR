@@ -1,0 +1,5 @@
+database	/biorg/data/DB/SILVA/silva.bacteria.fasta
+fastafile	/biorg/data/Pseudomonas/FNA/Pseudomonas_mosselii_SJ10_423.fna
+anchorL	17
+seed	F0
+v	5
